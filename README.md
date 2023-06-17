@@ -14,6 +14,7 @@ https://grabcad.com/library/cool-look-19-inches-case-with-raspberry-pi-and-e2000
 100/200/280/300x210x44mm
 http://www.allmetalparts.co.uk/54-5-inch-half-rack-system
 https://grabcad.com/library/10zoll_usv_apc_be850g2-gr-1
+https://gie-tec.de/wp-content/uploads/2017/03/db_133050.pdf
 
 5.25”(133.35mm) Rack
 170x146x42mm
@@ -45,6 +46,7 @@ https://xn--80aaxidg9j.xn--p1ai/catalog/20_ya_seriya_bp/alyuminievyy_konstruktsi
 ### profile 20x40 v-slot
 
 ### clamping profile
+https://www.rsi-llc.ru/catalog/86/243/
 https://www.rsi-llc.ru/catalog/127/1147/
 https://www.rsi-llc.ru/catalog/82/278/
 https://www.rsi-llc.ru/catalog/73/362/ (-)
