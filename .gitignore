@@ -1,0 +1,10 @@
+# General
+*.bck
+*.bak
+﻿.~*
+_autosave-*
+*/#auto_saved_files#
+*/*-backups/*
+
+# FreeCAD
+*.FCStd1
