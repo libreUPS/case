@@ -49,8 +49,8 @@ https://xn--80aaxidg9j.xn--p1ai/catalog/20_ya_seriya_bp/alyuminievyy_konstruktsi
 https://www.rsi-llc.ru/catalog/86/243/
 https://www.rsi-llc.ru/catalog/127/1147/
 https://www.rsi-llc.ru/catalog/82/278/
+https://www.rsi-llc.ru/catalog/76/1257/ 
 https://www.rsi-llc.ru/catalog/73/362/ (-)
-https://www.rsi-llc.ru/catalog/76/1257/ (-)
 https://www.rsi-llc.ru/catalog/111/1863/ (-)
 https://www.rsi-llc.ru/catalog/86/242/ (-)
 
