@@ -1,7 +1,10 @@
 # case
 
+![example](img.jpg)
 
-## Rack
+In this repository you will find a parameterized 10" rack model. The project was developed in FreeCAD. Can be used to generate a rack with any geometric characteristics.
+
+## Standard Rack options
 19”(48.26cm) Rack
 600/800/900mm
 https://grabcad.com/library/19inch-cabinet-1
@@ -25,39 +28,24 @@ https://www.aliexpress.com/item/32383530551.html
 https://www.aliexpress.com/item/1005005398767540.html
 https://www.aliexpress.com/item/1005004762858389.html
 
-other
-https://grabcad.com/library/pf19-3u-335-1
 
-!!!!!!!!!! https://www.vseinstrumenti.ru/product/komplekt-vertikalnyh-yunitovyh-napravlyayuschih-tsmo-2-sht-dlya-shkafov-vysotoj-6u-shrn-vn-6-1553303/
-
-## Radius
-### 30x30
-https://www.rsi-llc.ru/catalog/69/936/
-https://www.framingtech.com/30-x-30-radius
-
-### 20x20 
-https://www.framingtech.com/20-x-20-radius
-
-## Square
-### 20x20
-https://www.rsi-llc.ru/catalog/68/521/
-https://xn--80aaxidg9j.xn--p1ai/catalog/20_ya_seriya_bp/alyuminievyy_konstruktsionnyy_profil_20x20_bez_pokrytiya/
-
-### profile 20x40 v-slot
-
-### clamping profile
-https://www.rsi-llc.ru/catalog/86/243/
-https://www.rsi-llc.ru/catalog/127/1147/
-https://www.rsi-llc.ru/catalog/82/278/
-https://www.rsi-llc.ru/catalog/76/1257/ 
-https://www.rsi-llc.ru/catalog/73/362/ (-)
-https://www.rsi-llc.ru/catalog/111/1863/ (-)
-https://www.rsi-llc.ru/catalog/86/242/ (-)
-
-
+## Typical profile options
+### Square
+(!)https://www.rsi-llc.ru/catalog/68/521/
+(A)https://xn--80aaxidg9j.xn--p1ai/catalog/20_ya_seriya_bp/alyuminievyy_konstruktsionnyy_profil_20x20_bez_pokrytiya/
+### Rectangular
+(!)https://www.rsi-llc.ru/catalog/68/522/
+### Clamping profile
+(!)https://www.rsi-llc.ru/catalog/86/243/
+(!)https://www.rsi-llc.ru/catalog/127/1147/
+(!)https://www.rsi-llc.ru/catalog/76/1257/ 
+(!)https://www.rsi-llc.ru/catalog/86/1331/
+(-)https://www.rsi-llc.ru/catalog/82/278/
+(-)https://www.rsi-llc.ru/catalog/73/362/
+### Other
+(-)https://www.vseinstrumenti.ru/product/komplekt-vertikalnyh-yunitovyh-napravlyayuschih-tsmo-2-sht-dlya-shkafov-vysotoj-6u-shrn-vn-6-1553303/
 
 ## Credit
-
 https://grabcad.com/library/10zoll_usv_apc_be850g2-gr-1
 https://grabcad.com/library/10zoll_fritzbox6660_cable-1
 https://grabcad.com/library/10zoll_itx-server-1
