@@ -1,9 +1,22 @@
 # case
+Parameterized 10" rack model for libreUPS
 
 ![example](img.jpg)
+bc1u15s:
+![bc1u15s](img1.jpg)
 
-In this repository you will find a parameterized 10" rack model. The project was developed in FreeCAD. Can be used to generate a rack with any geometric characteristics.
+In this repository you will find the `parameterized 10" rack model` for the [libreUPS](https://github.com/libreUPS) complex.
+The project was developed in FreeCAD. Can be used to generate a rack with any geometric characteristics.
+This is the main repository. Here you will find all related components.
 
+Nodes of the complex:
+- rack (frame)
+- bc1u15s (battery cell)
+    + [bms](https://github.com/libreUPS/bms)
+    + [cpb](https://github.com/libreUPS/cpb)
+- ...
+
+# Notes for `case`
 ## Standard Rack options
 19”(48.26cm) Rack
 600/800/900mm
